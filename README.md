@@ -274,12 +274,6 @@ MortusOS is designed to resist:
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-### Security Issues
-
-**Do not open public issues for security vulnerabilities.**
-
-Please email security findings to: security@mortus-relay.org
-
 ### Development Workflow
 
 1. Fork the repository
