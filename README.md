@@ -309,13 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Groth16 Paper](https://eprint.iacr.org/2016/260) - ZK-SNARKs
 - [Nostr Protocol](https://github.com/nostr-protocol/nips) - Base Protocol
 
-## 📞 Support
-
-- **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/geeknik/mortus-relay/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/geeknik/mortus-relay/discussions)
-- **Matrix**: `#mortus-relay:matrix.org`
-
----
+--
 
 **⚠️ Disclaimer**: This software is experimental and not audited. Use at your own risk in production environments.
